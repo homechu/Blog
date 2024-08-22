@@ -1,0 +1,8 @@
+.ruff_cache
+.vscode
+.env
+*.sqlite3
+.python-version
+
+__pypackages__/
+__pycache__/
