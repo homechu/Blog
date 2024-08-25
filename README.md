@@ -1,1 +1,1 @@
-# JeromeBlog
+# Self-Blog
